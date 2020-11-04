@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CordinatorLayout</string>
+    <string name="text1">As far back as I can remember, I was always passionate about creativity and was eager to build/create something out of nothing. My journey with graphic design started when my grandmother bought me a first PC.\n I’ve spent hundreds of hours learning basic design principles by reading articles, books and watching video tutorials.d to find out full-time job in order to improve my skills, knowledge and experience.</string>
+    <string name="text2">Back in the 2007–2008 I started learning the basics of html/css code and designing very simple one page websites. Working on concept/training projects really helped me get into industry pretty quickly.\n If you put enterAlways only, you’ll end up with an expanding layout on every scroll up action and that’s probably not what you want :) With this flag, the layout is expanding only when the content has been scrolled all the way up</string>
+</resources>
